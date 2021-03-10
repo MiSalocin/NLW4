@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Some other files
+.vscode
+.DS_STORE
+yarn-Nicolas’s MacBook Pro.lock
